@@ -10,7 +10,7 @@
 ![Temple3](https://www.omnivagant.com/wp-content/uploads/2019/01/IMG_1994-3-1-e1547024234890.jpg)
 
 # Links
-Read more about the temple [here.](https://www.indonesia.travel/de/en/destinations/bali-nusa-tenggara/bali/ulun-danu-beratan)
+Read more about the temple [here].(https://www.indonesia.travel/de/en/destinations/bali-nusa-tenggara/bali/ulun-danu-beratan)
 
 # About
 Ulun Danu Temple lies at the edge of Baratan Lake in Bedugul in Bali.
