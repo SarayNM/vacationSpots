@@ -4,13 +4,8 @@
 - [Images](#Images)
 - [Links](#Links)
 - [About](#About)
-
-![temple](https://cdn.thecrazytourist.com/wp-content/uploads/2017/06/Ulan-Danu-Temple.jpg)
-
-| What?     | Ulun Danu Temple |
------------------------------
-| Where?    | Lake Bratan      |
------------------------------
+            
+            -----------------------------
 
 # Images
 ![Temple2](https://d1bv4heaa2n05k.cloudfront.net/user-images/1476353503275/shutterstock-302143586_main_1476353507643.jpeg)
