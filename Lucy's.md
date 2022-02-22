@@ -4,8 +4,6 @@
 - [Images](#Images)
 - [Links](#Links)
 - [About](#About)
-            
-            -----------------------------
 
 # Images
 ![Temple2](https://d1bv4heaa2n05k.cloudfront.net/user-images/1476353503275/shutterstock-302143586_main_1476353507643.jpeg)
