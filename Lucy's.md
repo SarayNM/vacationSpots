@@ -7,7 +7,7 @@
 
 # Images
 ![Temple2](https://d1bv4heaa2n05k.cloudfront.net/user-images/1476353503275/shutterstock-302143586_main_1476353507643.jpeg)
-![Temple3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRBV_zJEvBIQw8BO06v56dr9z3uP1Bt7T4A&usqp=CAU)
+![Temple3](https://www.omnivagant.com/wp-content/uploads/2019/01/IMG_1994-3-1-e1547024234890.jpg)
 
 # Links
 Read more about the temple [here](https://www.indonesia.travel/de/en/destinations/bali-nusa-tenggara/bali/ulun-danu-beratan)
